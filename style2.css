@@ -1,0 +1,15 @@
+.class1 {
+    background-color: red;
+    color: red;
+    margin: 10px 10px 0px 10px;
+    padding: 10px;
+}
+.class2 {
+    background-color: white;
+    color: red;
+    margin: 0px 10px 10px 0px;
+    padding: 10px 10px 10px 30px;
+}
+.class3 {
+    background-color: grey;
+}
